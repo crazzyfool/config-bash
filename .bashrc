@@ -96,6 +96,7 @@ alias free='free -m'                      # show sizes in MB
 alias np='nano -w PKGBUILD'
 alias more=less
 alias ll='ls -la'
+alias ls='ls -l'
 
 xhost +local:root > /dev/null 2>&1
 
