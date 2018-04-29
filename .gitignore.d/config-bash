@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/config-bash
+!/.bash_profile
+!/.bashrc
